@@ -1,0 +1,13 @@
+This is my repository while learning IOS 13 & Swift 5
+- [ ] Storyboards & Interface
+- [ ] Swift Basics
+- [ ] Auto Layout Responsive UIs
+- [ ] Explore Apple Documentation
+- [ ] Swift Control Flow
+- [ ] App Design Patterns
+- [ ] Advance Swift
+- [ ] Networking, JSON, API
+- [ ] Firebase
+- [ ] Swift UI
+- [ ] Local Data Persistance
+- [ ] Advance Lv 2
